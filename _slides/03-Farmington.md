@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Lee's slide deck!"
 ---
 
-Caption here
+Lee was here.
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
